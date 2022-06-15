@@ -1,0 +1,6 @@
+dataset/tse_csv/
+
+env/
+*.pyc
+.DS_Store
+.env
